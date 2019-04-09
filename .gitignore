@@ -1,3 +1,6 @@
+#simg
+*.simg
+
 # Logs
 logs
 *.log
